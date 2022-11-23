@@ -1,0 +1,15 @@
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\bin\Debug\net6.0\Atividade_16-11-22.exe
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\bin\Debug\net6.0\Atividade_16-11-22.deps.json
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\bin\Debug\net6.0\Atividade_16-11-22.runtimeconfig.json
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\bin\Debug\net6.0\Atividade_16-11-22.dll
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\bin\Debug\net6.0\Atividade_16-11-22.pdb
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.csproj.AssemblyReference.cache
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.AssemblyInfoInputs.cache
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.AssemblyInfo.cs
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.csproj.CoreCompileInputs.cache
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.dll
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\refint\Atividade_16-11-22.dll
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.pdb
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\Atividade_16-11-22.genruntimeconfig.cache
+D:\ADS-471-2SEM-2022\ED1I4-PROF. MARCO AURÉLIO\ATIVIDADE-161122\Atividade_ControleAcesso\Atividade_16-11-22\Atividade_16-11-22\obj\Debug\net6.0\ref\Atividade_16-11-22.dll
